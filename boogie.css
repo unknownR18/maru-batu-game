@@ -6,7 +6,7 @@
   border:2px solid lightblue;
   width:200px;
   height:65px;
-  
+
 }
 
 .b{
@@ -22,4 +22,7 @@
 }
 .reset{
   cursor:pointer;
+}
+.c{
+  display:flex;
 }
